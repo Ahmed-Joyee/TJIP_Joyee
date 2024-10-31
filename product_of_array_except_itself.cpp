@@ -1,5 +1,7 @@
 // couldn't solve it without the division operation in O(n)
-//in brute force it's O(n^2) and using division method it's O(n)
+
+//TC: O(N)
+//MC: O(N)
 
 class Solution {
 public:
