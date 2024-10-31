@@ -1,3 +1,6 @@
+//TC: O(N log N)
+//MC: O(1)
+
 class Solution {
 public:
     int hIndex(vector<int>& citations) {
